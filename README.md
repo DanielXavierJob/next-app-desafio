@@ -28,7 +28,7 @@ Com npm
 A URL de acesso será http://localhost:3000
 ## Aprendizados
 
-Recebi a instrução de fazer o Projeto de Seleção da MonteNegro Hub no dia 03/09/2022
+Recebi a instrução de fazer o Projeto de Seleção da MonteNegro no dia 03/09/2022
 e a data de entrega até o dia 08/09/2022, as linguagens eram 
 Next.Js (Front), Nest.Js(Back), MySQL (database), Docker. Com muito esforço e dedicação consegui terminar este aplicativo com todos Bonus do Desafio e mais ainda. Acredito fortemente em que podemos dar nosso melhor independente das circustancias.
 ## Stack utilizada
