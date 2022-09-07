@@ -8,6 +8,8 @@ Um painel de gestão básica de Ordens de serviço, com visão de Colaborador e 
 
 ## Instalação
 
+Antes de começar a instalação, editar os arquivos ```/src/service/auth.ts``` e ```src/service/axios.ts```, alterar ```192.168.0.16``` para sua ENDPOINT, após isso prossiga com a instalação.
+
 Com docker
 
 ```bash
