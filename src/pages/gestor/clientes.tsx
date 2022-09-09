@@ -68,7 +68,7 @@ export default function Clientes({ clients }: any) {
                     type: 'date',
                     flex: 1,
                     valueGetter: (params: any) => {
-                      return `${new Date(params.row.created_at).toLocaleDateString()} ${new Date(params.row.created_at).toLocaleTimeString()} `
+                      return new Date(params.row.created_at).toISOString();
                     }
                   }
                 ]}
